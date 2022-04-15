@@ -1,6 +1,6 @@
 # AdventOfCode2021
 
-I just found out about the Advent Of Code programming event and wanted to try doing it.
+I just found out about the [Advent Of Code](https://adventofcode.com/2021) programming event and wanted to try doing the 2021 one.
 
 Day | Part 1 Progress | Part 2 Progress
 ------------- | ------------- | -------------
